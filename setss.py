@@ -20,4 +20,3 @@ print(a.difference(b))
 #symmetric difference
 
 print("symmetric difference of a and b",a^b)   
-print(a.symmetric_difference(b))#a^b
