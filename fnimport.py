@@ -1,14 +1,14 @@
 import fn #from fn import maximum,minimum
 numbers=[1, 2, 3]
-x=fn.maximum(numbers)
+x=fn.maximumm(numbers)
 print(x)
-y=fn.minimum(numbers)
+y=fn.minimumm(numbers)
 print(y)
 
 #other way of importing
 from fn import maximum,minimum
 numbers=[1, 2, 3]
-x=maximum(numbers)
+x=maximumm(numbers)
 print(x)
-y=minimum(numbers)
+y=minimumm(numbers)
 print(y)
